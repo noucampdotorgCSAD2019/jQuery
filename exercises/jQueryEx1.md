@@ -7,7 +7,7 @@
 
 ## Clone the Remote Repository
 
-1.	Accept the GitHub Classroom invitation to this exercise on BlackBoard @ ``CCDV_CP701: Client Side Application Development (2018/19) > Content > jQuery``
+1.	Accept the GitHub Classroom invitation to this exercise on BlackBoard @ ``CCDV_CP701: Client Side Application Development (2019/20) > Content > jQuery``
 
 1.	Copy the clone URL from your new repository ``jQuery-<YOURACCOUNT>``
 
