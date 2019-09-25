@@ -2,20 +2,18 @@
 
 ## Retain Previous jQuery Folder
 
-1.	Please RENAME your existing ``jQuery`` folder as ``jQueryOLD`` before cloning below.
+1.	Please RENAME your existing (if any) ``jQuery`` folder as ``jQueryOLD`` before cloning below.
 
 
 ## Clone the Remote Repository
 
-1.	Accept the GitHub Classroom invitation to this exercise on BlackBoard @ ``CCDV_CP701: Client Side Application Development (2019/20) > Content > jQuery``
-
-1.	Copy the clone URL from your new repository ``jQuery-<YOURACCOUNT>``
+This will copy some jQuery program files to you ``htdocs`` folder.
 
 1.	Type these commands into your *Git Bash* client:
 
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
-	$ git clone <URL> jQuery
+	$ git clone https://github.com/noucampdotorgCSAD2019/jQuery.git jQuery
 	$ cd jQuery
 	$ ls
 	$ git status
@@ -27,9 +25,9 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 
 ## Part 1 — Hello jQuery
 
-1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest *compressed, production* version – jQuery 3.3.1. Save it in the folder ``htdocs/jQuery``.  Remember where you save it so you can access it in the code below.
+1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest *compressed, production* version – jQuery 3.4.1. Save it in the folder ``htdocs/jQuery``.  Remember where you save it so you can access it in the code below.
 
-1.	Run your first jQuery program using the program file [http://localhost/jQuery/FirstjQ.html](http://localhost/jQuery/FirstjQ.html) and ``FirstjQ.js`` given.  Note this example uses jQuery 3.3.1 (i.e. ``jquery-3.3.1.min.js``).
+1.	Run your first jQuery program using the program file [http://localhost/jQuery/FirstjQ.html](http://localhost/jQuery/FirstjQ.html) and ``FirstjQ.js`` given.  Note this example uses jQuery 3.4.1 (i.e. ``jquery-3.4.1.min.js``).
 
 1.	Modify the code in ``FirstjQ.js`` to print "hello world" to the browser's console window as well.  Check it works.  F12 key!!
 
@@ -52,16 +50,5 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 	1.	select the text “Business” within the paragraph
 	1.	select only the third list item in the unordered list
 	1.	select the heading and the unordered list with one line of code
-
-1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
-
-	```
-	$ git status
-	$ git add .
-	$ git commit -m "Exercise 1 - DONE|PARTIAL|HELP"
-	$ git push origin master
-	$ git status
-
-	```
 
 If you need help with your code let your lecturer know.  Refer to your repository if necessary.
