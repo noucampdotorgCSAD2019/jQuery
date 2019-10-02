@@ -21,7 +21,7 @@ $ git status
 	1.	Select any element that has a class attribute
 	1.	Select any element that has the text Science within it
 
-1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+<!-- 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
 	```
 	$ git status
@@ -30,7 +30,7 @@ $ git status
 	$ git push origin master
 	$ git status
 
-	```
+	``` -->
 
 ## Part 2 — Content Manipulation
 
