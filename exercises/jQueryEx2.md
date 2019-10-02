@@ -1,7 +1,7 @@
 # jQuery Exercise 2
 
 
-## Fetch latest Repository Branch
+<!-- ## Fetch latest Repository Branch -->
 
 <!-- ```
 $ cd /DRIVE/xampp/htdocs/jQuery
