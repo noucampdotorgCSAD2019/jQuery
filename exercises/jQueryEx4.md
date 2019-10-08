@@ -31,7 +31,7 @@ $ git status
 	Write the jQuery code in a JavaScript file ``DropdownjQueryAjax.js`` that retrieves the appropriate data for the player type selected from either of the corresponding files -- ``goalkeepers.txt``, ``defenders.txt``,
 	``midfielders.txt`` and ``forwards.txt`` - and displays that data on the HTML page. 
 	
-1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+<!-- 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
 	```
 	$ git status
@@ -40,7 +40,7 @@ $ git status
 	$ git push origin master
 	$ git status
 
-	```
+	``` -->
 
 
 # Part 2 – Ajax getJSON() Method
