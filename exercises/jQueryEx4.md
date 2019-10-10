@@ -89,10 +89,10 @@ $ git status
 
 
 
-<!-- # Part 3 – Ajax ajax() Method
+# Part 3 – Ajax ajax() Method
 
 
-## Fetch latest Repository Branch
+<!-- ## Fetch latest Repository Branch
 
 ```
 $ cd /DRIVE/xampp/htdocs/jQuery
@@ -100,7 +100,7 @@ $ git pull --no-edit https://github.com/noucampdotorgCSAD/jQuery.git latest
 $ git status
 
 ```
-
+ -->
 
 1.	Examine and then run the code in [http://localhost/jQuery/AjaxAjax.html](http://localhost/jQuery/AjaxAjax.html) to demonstrate jQuery using the Ajax function ``ajax()``.
 
@@ -108,7 +108,7 @@ $ git status
 
 1.	Modify the code in ``AjaxAjaxJSON.js`` to retrieve artist data using the ``getArtistsJSON.php`` PHP program and display the artist names in a HTML table within the ``<div>``.
 
-1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+<!-- 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
 	```
 	$ git status
@@ -117,7 +117,7 @@ $ git status
 	$ git push origin master
 	$ git status
 
-	```
+	``` -->
 
 
 
@@ -134,7 +134,7 @@ $ git status
 1.	Examine carefully the code in ``insertArtist.php`` that will, if given the correct data, insert a new artist to the ``artist`` table. 
 
 1.	Modify ``AjaxArtistINSERT.js`` such that it gets and posts the appropriate data to the ``insertArtist.php`` program.  When done you should have a HTML & Ajax solution that allows you to insert new artists.
-
+<!-- 
 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
 	```
